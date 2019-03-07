@@ -1,6 +1,15 @@
 ﻿## Warning
 **NEVER USE THIS ON PRODUCTION!!**
 
+
+##Requeriments
+
+- Linux System (For this tutorial i'm using Ubuntu 16.04.1)-
+- Geth & Tools (I'm using 1.8.22)  - Install instructions: https://geth.ethereum.org/install/ 
+- Basic knowledge about Ethereum BlockChain and PoA
+
+
+
 ## Starting network
 
 ### Start bootnode
