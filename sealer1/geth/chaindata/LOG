@@ -1,0 +1,38 @@
+=============== Mar 6, 2019 (CET) ===============
+23:20:46.605694 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:20:46.620662 db@open opening
+23:20:46.622803 version@stat F·[] S·0B[] Sc·[]
+23:20:46.629472 db@janitor F·2 G·0
+23:20:46.629638 db@open done T·8.846016ms
+=============== Mar 6, 2019 (CET) ===============
+23:35:52.061903 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:35:52.062301 version@stat F·[] S·0B[] Sc·[]
+23:35:52.062339 db@open opening
+23:35:52.062494 journal@recovery F·1
+23:35:52.067188 journal@recovery recovering @1
+23:35:52.084868 memdb@flush created L0@2 N·623 S·50KiB "\x02d\xfc..\x19Ba,v431":"\xfe\x88\xcf..H\xef\xcc,v364"
+23:35:52.091615 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+23:35:52.106556 db@janitor F·3 G·0
+23:35:52.106699 db@open done T·44.313406ms
+=============== Mar 6, 2019 (CET) ===============
+23:37:23.756126 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:37:23.756632 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+23:37:23.756681 db@open opening
+23:37:23.756891 journal@recovery F·1
+23:37:23.762160 journal@recovery recovering @3
+23:37:23.775455 memdb@flush created L0@5 N·3 S·496B "Dat..ion,v625":"cli..\xb8D\xbf,v627"
+23:37:23.783566 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+23:37:23.798158 db@janitor F·4 G·0
+23:37:23.798288 db@open done T·41.542698ms
+23:37:47.286479 db@close closing
+23:37:47.286734 db@close done T·251.486µs
+=============== Mar 6, 2019 (CET) ===============
+23:42:25.889363 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:42:25.889851 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+23:42:25.889891 db@open opening
+23:42:25.890082 journal@recovery F·1
+23:42:25.894464 journal@recovery recovering @6
+23:42:25.906911 memdb@flush created L0@8 N·11 S·669B "Dat..ion,v629":"r\x00\x00..\xc1\xe7\x1b,v635"
+23:42:25.913536 version@stat F·[3] S·51KiB[51KiB] Sc·[0.75]
+23:42:25.928215 db@janitor F·5 G·0
+23:42:25.928374 db@open done T·38.434014ms
